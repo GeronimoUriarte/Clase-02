@@ -3,18 +3,19 @@
     padding: 0%;
 }
 aside {
-    float: right;
-    margin-left: 900px; 
+    margin-left: 900px;
+    float: right; 
 }
 section {
-    float: left;
     margin-left: 20px;
     margin-right: 500px;
     margin-top: 50px;
+    float: left;
 }
 footer {
     clear: both;
-    margin-left: 15px;
+    text-align: center;
+    margin-top: 325px;
 }
 img {
     width: 1341px;
