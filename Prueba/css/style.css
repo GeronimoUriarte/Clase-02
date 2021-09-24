@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+aside {
+    float: right;
+    margin-left: 900px; 
+}
+section {
+    float: left;
+    margin-left: 20px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
+footer {
+    clear: both;
+    margin-left: 15px;
+}
+img {
+    width: 1341px;
+    height: 300px;
+}
